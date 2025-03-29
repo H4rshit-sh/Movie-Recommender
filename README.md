@@ -25,7 +25,8 @@ Now, open **http://localhost:8501** in your browser.
 📂 movie-recommendation-system
 ├── 📜 main.py              # Streamlit UI & movie recommendations
 ├── 📜 main.ipynb           # jupyter notebook
-└── 📂 data                 # Dataset folder (if applicable)
+└── 📂 README.md            # readme file
+└── 📂 tmdb_5000_movies     # Dataset file .csv
 ```
 
 ## 📌 Usage
